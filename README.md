@@ -1,4 +1,4 @@
-# Github and git v2
+# Github and git conflict v3
 # CSC4110 - Assignment 01
 ### J. Huraibi 
 #### fh1328
